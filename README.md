@@ -58,7 +58,7 @@ This project involves:
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
 - **[Git Repository](https://github.com/):** A  GitHub account and repository to manage, version, and collaborate on your code efficiently.
-- **[Project PLANNING](https://oxidized-silene-28e.notion.site/Data-Warehouse-Project-256ecbbd75be804e805fe3e2cd163ea0):** All my Project Steps and thought processes when tackling this project.
+- **[Project Planning](https://oxidized-silene-28e.notion.site/Data-Warehouse-Project-256ecbbd75be804e805fe3e2cd163ea0):** All my Project Steps and thought processes when tackling this project.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
 
