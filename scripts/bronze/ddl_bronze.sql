@@ -7,7 +7,6 @@ Creates tables within the bronze schema
 =================================================================
 */
 
-
 CREATE TABLE bronze.crm_cust_info (
 cst_id INT,
 cst_key NVARCHAR(50),
