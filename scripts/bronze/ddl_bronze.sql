@@ -43,7 +43,7 @@ sls_ship_dt INT,
 sls_due_dt INT,
 sls_sales INT,
 sls_quantity INT,
-sls_price INT,
+sls_price INT
 );
 
 GO
@@ -52,7 +52,7 @@ CREATE TABLE bronze.erp_cat_g1v2(
 id NVARCHAR(50),
 cat NVARCHAR(50),
 subcat NVARCHAR(50),
-maintenance NVARCHAR(50),
+maintenance NVARCHAR(50)
 );
 
 GO
